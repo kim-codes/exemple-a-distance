@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 # exemple-a-distance
-=======
-# Visual Studio Codespaces
+
+## Visual Studio Codespaces
 
 Welcome to Visual Studio Codespaces! This environment provides you with a full-fidelity development experience, that is accessible from anywhere. It's the same Visual Studio Code experience you already know and love, only powered by the cloud 💙 ☁️
 
@@ -19,5 +19,7 @@ If you're working on multiple projects, then go ahead and create multiple enviro
 
 If you run into any problems, see our [troubleshooting documentation](https://docs.microsoft.com/en-us/visualstudio/online/resources/troubleshooting) for potential workarounds. Additionally, if you have any questions and/or feedback, please don't hesitate to reach out to the team on [GitHub](https://github.com/MicrosoftDocs/vscodespaces).
 
+____ 
+
 Oui bonjour :)
->>>>>>> 31a3a3a... updateing from codespaces envrionment
+
